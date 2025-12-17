@@ -1,0 +1,18 @@
+total 112
+-rw-r--r--   1 samba  staff   12 Dec 17 22:45 *'"Best School"'*\*$?*****:)
+-rw-r--r--   1 samba  staff   12 Dec 17 22:46 *Best School*\$\?*****:)
+-rw-r--r--   1 samba  staff   12 Dec 17 22:55 *\\Best School\\*$\?\*\*\*\*\*:)
+drwxr-xr-x  17 samba  staff  544 Dec 17 22:58 .
+drwxr-xr-x   9 samba  staff  288 Dec 17 19:37 ..
+-rwxr-xr-x   1 samba  staff   68 Dec 17 19:37 0-hello_world
+-rwxr-xr-x   1 samba  staff   28 Dec 17 22:04 1-confused_smiley
+-rwxr-xr-x   1 samba  staff   28 Dec 17 22:11 2-hellofile
+-rwxr-xr-x   1 samba  staff   39 Dec 17 22:13 3-twofiles
+-rwxr-xr-x   1 samba  staff   35 Dec 17 22:15 4-lastlines
+-rwxr-xr-x   1 samba  staff   35 Dec 17 22:22 5-firstlines
+-rwxr-xr-x   1 samba  staff   40 Dec 17 22:25 6-third_line
+-rwxr-xr-x   1 samba  staff   73 Dec 17 22:53 7-file
+-rwxr-xr-x   1 samba  staff   36 Dec 17 22:57 8-cwd_state
+-rw-r--r--   1 samba  staff   38 Dec 17 22:50 \*\'Best
+-rw-r--r--   1 samba  staff  126 Dec 17 22:28 iacta
+-rw-r--r--   1 samba  staff    0 Dec 17 22:58 ls_cwd_content
