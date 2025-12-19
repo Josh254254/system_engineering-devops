@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script sets the permissions of hello to --- for owner and group, and rwx for others
+
+chmod 007 hello
